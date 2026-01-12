@@ -1,0 +1,8 @@
+{
+  "name": "EduPro SMK - Vocational High School Management System",
+  "description": "A comprehensive, professional-grade management system for vocational high schools featuring role-based dashboards, attendance tracking, internship (PKL) management, and academic analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
